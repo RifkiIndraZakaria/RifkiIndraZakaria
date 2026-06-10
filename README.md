@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/banner.png" width="100%" alt="Eula Banner"/>
+<img src="https://raw.githubusercontent.com/RifkiIndraZakaria/RifkiIndraZakaria/main/assets/banner.png" width="100%" alt="Eula Banner"/>
 
 </div>
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/assets/eula-chibi.png" width="200" alt="Eula Chibi"/>
+<img align="right" src="https://raw.githubusercontent.com/RifkiIndraZakaria/RifkiIndraZakaria/main/assets/eula-chibi.png" width="200" alt="Eula Chibi"/>
 
 <div>
 
@@ -32,9 +32,9 @@
 
 ### ✦ — Artifact Stats — ✦
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=midnight-purple&border_color=c9a84c&title_color=c9a84c&icon_color=c9a84c&text_color=d4c5a0&bg_color=0a0e1a)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RifkiIndraZakaria&show_icons=true&theme=midnight-purple&border_color=c9a84c&title_color=c9a84c&icon_color=c9a84c&text_color=d4c5a0&bg_color=0a0e1a)
 
-![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=midnight-purple&background=0a0e1a&border=c9a84c&stroke=c9a84c&ring=c9a84c&fire=e8d48b&currStreakLabel=c9a84c&sideLabels=8b7035&dates=a09070)
+![Streak](https://streak-stats.demolab.com?user=RifkiIndraZakaria&theme=midnight-purple&background=0a0e1a&border=c9a84c&stroke=c9a84c&ring=c9a84c&fire=e8d48b&currStreakLabel=c9a84c&sideLabels=8b7035&dates=a09070)
 
 </div>
 
@@ -62,7 +62,7 @@ TypeScript  ██████████████░░░░░░ 70%
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=midnight-purple&border_color=c9a84c&title_color=c9a84c&text_color=d4c5a0&bg_color=0a0e1a)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiIndraZakaria&layout=compact&theme=midnight-purple&border_color=c9a84c&title_color=c9a84c&text_color=d4c5a0&bg_color=0a0e1a)
 
 </div>
 
