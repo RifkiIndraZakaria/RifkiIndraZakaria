@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/RifkiIndraZakaria/RifkiIndraZakaria/main/assets/banner.png" width="100%" alt="banner"/>
   <br><br>
 
-![open to work](https://img.shields.io/badge/open%20to%20work-0D1117?style=flat-square&color=185FA5&labelColor=0D1117) ![Indonesia](https://img.shields.io/badge/Indonesia-0D1117?style=flat-square&color=333&labelColor=0D1117) ![backend dev](https://img.shields.io/badge/backend%20dev-0D1117?style=flat-square&color=333&labelColor=0D1117)
+![open to work](https://img.shields.io/badge/open%20to%20work-0D1117?style=flat-square&color=185FA5&labelColor=0D1117)
 
-> _"Eula My Bini Gweh"_ &nbsp;·&nbsp; `Role` Game Developer &nbsp;·&nbsp; `Learning` C#, Unity
+> _"Eula My Bini Gweh"_ &nbsp;·&nbsp; `Game Developer` &nbsp;·&nbsp; `C#` &nbsp; `Unity`
 
 ---
 
