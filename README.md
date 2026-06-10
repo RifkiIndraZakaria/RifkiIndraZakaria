@@ -14,9 +14,7 @@
 
 ---
 
-**location** &nbsp; Indonesia
-**role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Game Developer
-**learning** &nbsp; C#, Unity
+`role` Game Developer &nbsp;·&nbsp; `learning` C#, Unity
 
 <!-- **contact** &nbsp;&nbsp; [you@email.com](mailto:you@email.com) -->
 
