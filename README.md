@@ -1,26 +1,30 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/RifkiIndraZakaria/RifkiIndraZakaria/main/assets/banner.png" width="100%" alt="banner"/>
-</div>
+  
+  <br><br>
 
-<br/>
+![open to work](https://img.shields.io/badge/open%20to%20work-0D1117?style=flat-square&color=185FA5&labelColor=0D1117)
+![Indonesia](https://img.shields.io/badge/Indonesia-0D1117?style=flat-square&color=333&labelColor=0D1117)
+![backend dev](https://img.shields.io/badge/backend%20dev-0D1117?style=flat-square&color=333&labelColor=0D1117)
 
-![badge](https://img.shields.io/badge/open%20to%20work-0D1117?style=flat-square&color=185FA5&labelColor=0D1117)
-![badge](https://img.shields.io/badge/Indonesia-0D1117?style=flat-square&color=333&labelColor=0D1117)
-![badge](https://img.shields.io/badge/backend%20dev-0D1117?style=flat-square&color=333&labelColor=0D1117)
-
-<br clear="left"/>
+<br><br>
 
 > _"Eula My Bini Gweh"_
 
+  <br>
+
+`Role` Game Developer &nbsp;·&nbsp; `Learning` C#, Unity
+
+  <!-- **contact** &nbsp;&nbsp; [you@email.com](mailto:you@email.com) -->
+</div>
+
+<br>
+
 ---
 
-`role` Game Developer &nbsp;·&nbsp; `learning` C#, Unity
+<div align="center">
 
-<!-- **contact** &nbsp;&nbsp; [you@email.com](mailto:you@email.com) -->
-
----
-
-**Tech stack**
+### 🛠️ Tech Stack
 
 ![JS](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=378ADD)
 ![TS](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=378ADD)
@@ -31,13 +35,21 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=aaa)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=aaa)
 
+</div>
+
+<br>
+
 ---
 
 <div align="center">
-  <a href="https://github.com/RifkiIndraZakaria">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=RifkiIndraZakaria&show_icons=true&theme=github_dark&border_color=222&title_color=378ADD&icon_color=378ADD&bg_color=111&rank_icon=github"/>
-  </a>
-  <a href="https://github.com/RifkiIndraZakaria">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiIndraZakaria&layout=compact&theme=github_dark&border_color=222&title_color=378ADD&bg_color=111"/>
-  </a>
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/RifkiIndraZakaria">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RifkiIndraZakaria&show_icons=true&theme=github_dark&border_color=222&title_color=378ADD&icon_color=378ADD&bg_color=111&rank_icon=github"/>
+</a>
+<a href="https://github.com/RifkiIndraZakaria">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiIndraZakaria&layout=compact&theme=github_dark&border_color=222&title_color=378ADD&bg_color=111"/>
+</a>
+
 </div>
