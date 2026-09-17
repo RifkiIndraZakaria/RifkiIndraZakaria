@@ -9,7 +9,17 @@
 ---
 
 **Tech Stack**<br>
-![JS](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=378ADD) ![TS](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=378ADD) ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=378ADD) ![Node](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=378ADD) ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=aaa) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=aaa) ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=aaa) ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=aaa)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square\&logo=csharp\&logoColor=378ADD)
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=flat-square\&logo=unity\&logoColor=FFFFFF)
+![Unity DOTS](https://img.shields.io/badge/Unity_DOTS-0D1117?style=flat-square\&logo=unity\&logoColor=FFFFFF)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square\&logo=dotnet\&logoColor=378ADD)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square\&logo=git\&logoColor=aaa)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square\&logo=github\&logoColor=FFFFFF)
+![Blender](https://img.shields.io/badge/Blender-0D1117?style=flat-square\&logo=blender\&logoColor=E87D0D)
+![FMOD](https://img.shields.io/badge/FMOD-0D1117?style=flat-square\&logo=fmod\&logoColor=FFFFFF)
+![Photon](https://img.shields.io/badge/Photon-0D1117?style=flat-square\&logo=photon\&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square\&logo=firebase\&logoColor=FFCA28)
+
 
   <br>
 
