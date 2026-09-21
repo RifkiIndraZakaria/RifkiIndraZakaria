@@ -44,9 +44,4 @@
 
   <br><br>
 
-  <!-- Contribution Streak Graph -->
-  <a href="https://github.com/RifkiIndraZakaria">
-    <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=RifkiIndraZakaria&bg_color=0D1117&color=378ADD&line=378ADD&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-  </a>
-
 </div>
