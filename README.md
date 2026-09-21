@@ -1,29 +1,52 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RifkiIndraZakaria/RifkiIndraZakaria/main/assets/banner.png" width="100%" alt="banner"/>
+
+  <!-- Banner -->
+  <img src="https://raw.githubusercontent.com/RifkiIndraZakaria/RifkiIndraZakaria/main/assets/banner.png" width="100%" alt="Rifki's Banner"/>
+
   <br><br>
 
-![open to work](https://img.shields.io/badge/open%20to%20work-0D1117?style=flat-square&color=185FA5&labelColor=0D1117)
+  <!-- Status & Intro -->
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-185FA5?style=flat-square&logoColor=white&labelColor=0D1117" alt="Open to Work"/>
 
-> _"Eula My Bini Gweh"_ &nbsp;·&nbsp; `Game Developer` &nbsp;·&nbsp; `C#` &nbsp; `Unity`
+  <p align="center">
+    <em>"Eula My Bini Gweh"</em><br>
+    <code>Game Developer</code> &nbsp;•&nbsp; <code>C#</code> &nbsp;•&nbsp; <code>Unity</code>
+  </p>
 
----
+  <hr width="80%">
 
-**Tech Stack**<br>
-![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square\&logo=csharp\&logoColor=378ADD)
-![Unity](https://img.shields.io/badge/Unity-0D1117?style=flat-square\&logo=unity\&logoColor=FFFFFF)
-![Unity DOTS](https://img.shields.io/badge/Unity_DOTS-0D1117?style=flat-square\&logo=unity\&logoColor=FFFFFF)
-![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square\&logo=dotnet\&logoColor=378ADD)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square\&logo=git\&logoColor=aaa)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square\&logo=github\&logoColor=FFFFFF)
-![Blender](https://img.shields.io/badge/Blender-0D1117?style=flat-square\&logo=blender\&logoColor=E87D0D)
-![FMOD](https://img.shields.io/badge/FMOD-0D1117?style=flat-square\&logo=fmod\&logoColor=FFFFFF)
-![Photon](https://img.shields.io/badge/Photon-0D1117?style=flat-square\&logo=photon\&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square\&logo=firebase\&logoColor=FFCA28)
-
+  <!-- Tech Stack -->
+  <p><strong> Tech Stack & Tools</strong></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=378ADD" alt="C#"/>
+    <img src="https://img.shields.io/badge/Unity-0D1117?style=flat-square&logo=unity&logoColor=FFFFFF" alt="Unity"/>
+    <img src="https://img.shields.io/badge/Unity_DOTS-0D1117?style=flat-square&logo=unity&logoColor=FFFFFF" alt="Unity DOTS"/>
+    <img src="https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=378ADD" alt=".NET"/>
+    <img src="https://img.shields.io/badge/Photon-0D1117?style=flat-square&logo=photon&logoColor=FFFFFF" alt="Photon"/>
+    <br>
+    <img src="https://img.shields.io/badge/FMOD-0D1117?style=flat-square&logo=fmod&logoColor=FFFFFF" alt="FMOD"/>
+    <img src="https://img.shields.io/badge/Blender-0D1117?style=flat-square&logo=blender&logoColor=E87D0D" alt="Blender"/>
+    <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=aaa" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  </p>
 
   <br>
 
-<a href="https://github.com/RifkiIndraZakaria"><img height="130" src="https://github-readme-stats.vercel.app/api?username=RifkiIndraZakaria&show_icons=true&theme=github_dark&border_color=222&title_color=378ADD&icon_color=378ADD&bg_color=111&rank_icon=github"/></a>
-<a href="https://github.com/RifkiIndraZakaria"><img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiIndraZakaria&layout=compact&theme=github_dark&border_color=222&title_color=378ADD&bg_color=111"/></a>
+  <!-- GitHub Stats (Updated Alternative) -->
+  <a href="https://github.com/RifkiIndraZakaria">
+    <img height="155" src="https://github-readme-stats-fast.vercel.app/api?username=RifkiIndraZakaria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=378ADD" alt="Rifki's Stats"/>
+  </a>
+  <a href="https://github.com/RifkiIndraZakaria">
+    <img height="155" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RifkiIndraZakaria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=378ADD" alt="Top Languages"/>
+  </a>
+
+  <br><br>
+
+  <!-- Contribution Streak Graph -->
+  <a href="https://github.com/RifkiIndraZakaria">
+    <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=RifkiIndraZakaria&bg_color=0D1117&color=378ADD&line=378ADD&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  </a>
 
 </div>
